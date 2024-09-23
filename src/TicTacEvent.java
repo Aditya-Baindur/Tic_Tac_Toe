@@ -1,7 +1,5 @@
 /** Programmer:Aditya Baindur
  * Date: 23 May 2023
- * Teacher : Mr Bates
- * Program Name: Tic Tic Toe in Java
  * Program Description: This program runs the GUI for Tic Tac Toe
  */
 
